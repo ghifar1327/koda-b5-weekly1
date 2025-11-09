@@ -18,32 +18,3 @@ const reamur = (num) => {
 };
 
 konversiSuhu(input, celcius, fahrenheit, kelvin, reamur)
-
-// let konversiSuhu = [celcius(), fahrenheit(), kelvin(), reamur()];
-// konversiSuhu.forEach((e) => {
-//     console.log(e)
-// });
-
-// function processNumber(number, process1, process2) {
-//   let out1 = process1(number);
-//   // process2 akan mengolah output dari process1
-//   let out2 = process2(out1);
-//   // tampilkan output dari process2
-//   console.log(out2);
-// }
-// function double(num) {
-//   const result = num * 2;
-//   return result;
-// }
-// function square(num) {
-//   const result = num * num;
-//   return result;
-// }
-// processNumber(5, double, square);
-// processNumber(
-//   5,
-//   (num) => {
-//     return num * 2;
-//   },
-//   (num) => num * num
-// );

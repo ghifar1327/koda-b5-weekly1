@@ -26,13 +26,13 @@ run(input)
   .then(console.log)
   .catch(console.error);
 
-async function running() {
-    try {
-        let res = await run(input)
-        console.log(res)
-    }catch{
-        console.error
-    }
-}
+// async function running() {
+//     try {
+//         let res = await run(input)
+//         console.log(res)
+//     }catch{
+//         console.error
+//     }
+// }
 
-running()
+// running()
