@@ -8,7 +8,7 @@ const celcius = (num) => {
   console.log(`celcius = ${num}`);
 };
 const fahrenheit = (num) => {
-  console.log(`fahrenheit = ${(num * 9) / 5}`);
+  console.log(`fahrenheit = ${(num * 9) / 5 + 32}`);
 };
 const kelvin = (num) => {
   console.log(`kelvin = ${num + 273.15}`);
