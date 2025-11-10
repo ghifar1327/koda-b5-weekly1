@@ -10,4 +10,4 @@ function genMultiplicationTable(n){
     }
 }
 
-genMultiplicationTable(5)
+genMultiplicationTable(10)
